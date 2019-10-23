@@ -1,0 +1,1 @@
+This Python program is a collection of various calculating tools for finding the dimensions of geometrical shapes.
