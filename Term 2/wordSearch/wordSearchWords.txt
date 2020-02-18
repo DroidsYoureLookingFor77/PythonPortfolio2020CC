@@ -1,0 +1,40 @@
+1. Variable:
+This is an object Python uses to store data. What is it?
+2. Float:
+This is a number that has a decimal point and numbers following it. What is it?
+3. Function:
+This is portion of code dedicated to the processing and output. What is it?
+4. Tuple:
+This is a means of holding data that is pre-defined in code. What is it?
+5. Input:
+This is a means of receiving data from a user. What is it?
+6. Operator:
+This is something Python uses to perform equations and compare. What is it?
+7. Array:
+This is a mutable variable that stores sets of data of the same type. What is it?
+8. Boolean:
+This is a data type that describes falsehood and truth. What is it?
+9. String:
+This is a data type that is used primarily to display data. What is it?
+10. Print:
+This is an in-built function that allows users to display data to the screen. What is it?
+11. Module:
+This is a part of Python that has to be manually imported for use. What is it?
+12. Import:
+This is a function that allows Python to access libraries and modules. What is it?
+13. Shell:
+This is where Python programs run. What is it?
+14. Concatenate:
+This is the term for adding together multiple pieces of data. What is it?
+15. Logical:
+This is the term describing comparisons and operators. What is it?
+16. Program:
+This is a file with code in it that can be executed in the shell. What is it?
+17. Continue:
+This is a command that can be inserted into a loop to make it keep going. What is it?
+18. Format:
+This is a collection of rules that determine how Python code should be written and how it's read. What is it?
+19. Terminal:
+This is an interface that Python and other programs use to display code and input commands. What is it?
+20. Execution:
+This is the term used to describe the running of a file. What is it?
